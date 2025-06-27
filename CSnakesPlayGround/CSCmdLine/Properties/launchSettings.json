@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Home": {
+      "commandName": "Project",
+      "commandLineArgs": "HOME"
+    },
+    "Azure": {
+      "commandName": "Project",
+      "commandLineArgs": "Azure"
+    },
+    "Endava": {
+      "commandName": "Project",
+      "commandLineArgs": "Endava"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5102"
+    },
+    "https": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7107;http://localhost:5102"
+    },
+    "Home": {
+      "commandName": "Project",
+      "commandLineArgs": "HOME",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7107;http://localhost:5102"
+    },
+    "Azure": {
+      "commandName": "Project",
+      "commandLineArgs": "Azure",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7107;http://localhost:5102"
+    },
+    "Endava": {
+      "commandName": "Project",
+      "commandLineArgs": "Endava",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7107;http://localhost:5102"
+    },
+},
+  "$schema": "https://json.schemastore.org/launchsettings.json"
+}
