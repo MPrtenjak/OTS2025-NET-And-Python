@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExtractPdf2Txt": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Users\\mprtenjak\\Downloads\\Diving-oxygen.pdf"
+    }
+  }
+}
