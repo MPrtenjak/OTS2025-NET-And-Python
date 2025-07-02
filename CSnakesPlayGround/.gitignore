@@ -1,0 +1,15 @@
+# User-specific files
+*.user
+.vs/
+
+# Output-folders
+bin/
+obj/
+publish/
+dist/
+
+# Python folder
+Python312
+
+# Python virtual folder
+virtual-env

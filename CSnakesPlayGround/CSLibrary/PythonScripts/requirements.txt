@@ -1,0 +1,8 @@
+﻿PyPDF2
+seaborn
+matplotlib
+OpenAI
+selenium 
+beautifulsoup4 
+pandas 
+webdriver-manager
